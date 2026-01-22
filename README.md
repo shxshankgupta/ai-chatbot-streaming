@@ -9,7 +9,7 @@ A production-ready AI chatbot with real-time streaming responses built with Next
 
 ## 🎥 Demo Video
 
-[**Watch Demo Video Here**](YOUR_VIDEO_LINK_HERE)
+[**Watch Demo Video Here**](https://www.loom.com/share/cddb6f5220e24a17912a4fc4baca11e7)
 
 ---
 
