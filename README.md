@@ -7,10 +7,6 @@ A production-ready AI chatbot with real-time streaming responses built with Next
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
 ![Groq](https://img.shields.io/badge/Groq-Llama_3.3_70B-orange)
 
-## 🎥 Demo Video
-
-[**Watch Demo Video Here**](https://www.loom.com/share/cddb6f5220e24a17912a4fc4baca11e7)
-
 ---
 
 ## ✨ Features Implemented
@@ -248,8 +244,6 @@ MIT License - feel free to use this project for learning and development.
 **Shashank Gupta**
 
 - GitHub: [@shxshankgupta](https://github.com/shxshankgupta)
-- Demo Video: [Watch Here](YOUR_VIDEO_LINK_HERE)
-
 ---
 
 ## 🙏 Acknowledgments
